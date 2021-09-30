@@ -1,4 +1,4 @@
-# <b>Discord Ping bot</b><br><br>
+# <b>Discord Ping bot😅</b><br><br>
 
 ## This is a bot or mainly a python script that can be used for pinging bots on discord servers...
 
